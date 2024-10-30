@@ -1,4 +1,5 @@
-## Hi there 👋
+## Добро пожаловать 👋
+Меня зовут Аверин Артем, я Java разработчик
 
 <!--
 **artemaverin/artemaverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
